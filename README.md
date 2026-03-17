@@ -40,7 +40,7 @@ This is the official brand guidelines portal for Cydenti, built with Next.js and
 
 ## Deployment
 
-This project is configured to be deployed from the root directory. Ensure your Vercel project settings have the **Root Directory** set to empty (or `./`).
+This project can be easily deployed to Vercel or any Next.js hosting provider.
 
 ```bash
 npm run build
